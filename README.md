@@ -1,2 +1,6 @@
-# python-smart-servers
-We are experimenting about http servers made with python to make them smarter!
+#Codes
+
+GREEN = Working Great, No Errors
+YELLOW = Working Ok But, A Bug
+RED = Not Working, Fail
+PURPLE = Not Finished
